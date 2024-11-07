@@ -9,10 +9,10 @@ https://public.tableau.com/app/profile/neo.ashish/viz/sales_analysis_2020-21/Das
 
 **ANALYSIS DONE**
 
-1.Revenue(total sales) per state
-2.Revenue(total sales) based on month of year
-3.Revenue(total sales) based on age
-4.Quantity-discount percentage correlation
-5.Percentage of Revenue per region
-6.Revenue per Category per gender
-7.Build dashboard
+1.  Revenue(total sales) per state
+2.  Revenue(total sales) based on month of year
+3.  Revenue(total sales) based on age
+4.  Quantity-discount percentage correlation
+5.  Percentage of Revenue per region
+6.  Revenue per Category per gender
+7.  Build dashboard
