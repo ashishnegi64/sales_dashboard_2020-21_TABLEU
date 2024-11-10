@@ -16,3 +16,25 @@ https://public.tableau.com/app/profile/neo.ashish/viz/sales_analysis_2020-21/Das
 5.  Percentage of Revenue per region
 6.  Revenue per Category per gender
 7.  Build dashboard
+
+**STORY**
+
+1. Texas state has the highest revenue of $15.5 million.
+2. Dec 2020 was the highest profitable month with total revenue of $57.7 million.
+3. Age group between 30-40 are the highest selling group with $44.8 million revenue.
+4. With highest discount of 75%, quantities ordered were highest of 371.
+5. Mobile & Tablets were the highest selling categories with female and male revenue as $66.3 & $63.8 millions.
+
+**INSIGHTS**
+
+>> People with 30-40 years of age group from Texas state has the highest revenue.
+
+>> Mobile & Tablets were the most profitable categories.
+
+>> December was the most profitable month when phones and tablets are launched.
+
+**NEXT STEP**
+
+>> Mobiles & Tablets were highly profitable categories with discount of 75%, so we need to ensure that we work more on promotions and provide lucrative discounts on new items that are launched and work on providing more discounts on old phones and tablets.
+
+>> Southern parts of US has highest sales, so we need to stock our inventories for pre-order and at the time of order ensure that there are less backorder by making sure that they receive on same or the next day for maximum products to get sold.
