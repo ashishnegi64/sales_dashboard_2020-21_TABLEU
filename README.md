@@ -4,10 +4,12 @@
 -->>Open any one of this link in browser to view dashboard and story in TABLEAU PUBLIC
 
 https://public.tableau.com/views/sales_analysis_2020-21/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/salesanalysisstoryboard2020-21/Final_story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/app/profile/neo.ashish/viz/sales_analysis_2020-21/Dashboard1
 
 https://public.tableau.com/authoring/sales_analysis_2020-21/Dashboard1/Final_story#1
+https://public.tableau.com/app/profile/neo.ashish/viz/salesanalysisstoryboard2020-21/Final_story
 
 **ANALYSIS DONE**
 
